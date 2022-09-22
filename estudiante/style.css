@@ -1,0 +1,72 @@
+body {
+  background-color: #a9a9a9;
+  font-family: 'Bai Jamjuree', sans-serif;
+  margin: 0;
+   
+}
+
+header{
+  display: flex;
+  align-items: center;
+  height: 150px;
+  justify-content: space-between;
+  margin: 10px;
+}
+
+.logojaveriana {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+  font-size: 50px;
+}
+
+
+.logo-u{
+  height: 150px;
+}
+
+.columna1 {
+  float: left;
+  width: 25%;
+  margin: 20px;
+}
+
+.columna2 {
+  float: left;
+  width: 60%;
+  position: relative;
+}
+
+
+
+
+
+.columna1 .btn_estudiante{
+  background: #173268;
+  color: darkgrey;
+  border: none;
+  outline: none;
+  height: 40px;
+  width: 80%;
+  font-size: 18px;
+  border-radius: 15px;
+
+}
+  
+
+.columna1 .btn_estudiante:hover{
+
+  color: #1b5dad;
+}
+
+.columna2 .fondo{
+  width: 130%;
+  height: 100%;
+  border-radius: 1%;
+  align-items: center;
+ 
+}
+
+.columna2 .informacion{
+  position: absolute;
+}
