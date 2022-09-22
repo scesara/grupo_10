@@ -1,0 +1,34 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family:  'Bai Jamjuree', sans-serif;
+
+}
+button{
+    background-color:#173268;
+    color: white;
+    border-radius: 12px;
+    padding: 12px 28px;
+    font-weight: bold;
+    border: none;
+
+}
+ul{
+    list-style: none;
+}
+header{
+    background-color:#173268;
+}
+footer{
+    background-color:#173268;
+}
+.container{
+    background-color: white;
+    border-style:none;
+    border-width: 10px;
+}
+strong{
+    color: #173268;
+}
